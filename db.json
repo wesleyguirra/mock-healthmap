@@ -10,5 +10,42 @@
             "tipo": "teste",
             "nome": "Teste"
         }
+    ],
+    "especialidade": [
+        {
+            "id": 123,
+            "nome": "cardiologia"
+        },
+        {
+            "id": 122,
+            "nome": "radiologia"
+        }
+    ],
+    "listarAgendaMedicos": [
+        {
+            "idProfissional": 123,
+            "nomeProfissional": "Pedro Cunha",
+            "idLocal": 91874,
+            "local": "Consultório Pr. da Costa",
+            "agenda": [
+                {
+                    "data": "2018-05-23",
+                    "horarios": [
+                    {
+                        "horaInicio": "08:00",
+                        "horaFim": "09:00"
+                    },
+                    {
+                        "horaInicio": "09:00",
+                        "horaFim": "10:00"
+                    },
+                    {
+                        "horaInicio": "11:00",
+                        "horaFim": "12:00"
+                    }
+                    ]
+                }
+            ]
+        }
     ]
 }
