@@ -198,5 +198,31 @@
             ]
         }
     ],
-    "listarConsultas": []
+    "listarConsultas": [
+        {
+            "idConsulta": 964984654,
+             "data": "2018-05-23",
+             "horaInicio": "08:00",
+             "horaFim": "09:00",
+             "idLocal": 1132,
+             "nomeLocal": "Consultório Pr. da Costa",
+             "idProfissional": 64532,
+             "nomeProfissional": "Pedro Cunha",
+             "idCliente": 55465,
+             "status": "ABERTO"
+         },
+         {
+            "idConsulta": 964984652,
+             "data": "2018-05-25",
+             "horaInicio": "08:00",
+             "horaFim": "09:00",
+             "idLocal": 1132,
+             "nomeLocal": "Consultório Pr. da Costa",
+             "idProfissional": 64532,
+             "nomeProfissional": "Pedro Cunha",
+             "idCliente": 55465,
+             "status": "ABERTO"
+         }
+         
+    ]
 }
