@@ -78,6 +78,122 @@
                         "horaFim": "13:00"
                     }
                     ]
+                },
+                {
+                    "data": "2019-09-01",
+                    "horarios": [
+                    {
+                        "horaInicio": "08:00",
+                        "horaFim": "09:00"
+                    },
+                    {
+                        "horaInicio": "09:00",
+                        "horaFim": "10:00"
+                    },
+                    {
+                        "horaInicio": "11:00",
+                        "horaFim": "12:00"
+                    },
+                    {
+                        "horaInicio": "12:00",
+                        "horaFim": "13:00"
+                    }
+                    ]
+                },
+                {
+                    "data": "2019-09-02",
+                    "horarios": [
+                    {
+                        "horaInicio": "08:00",
+                        "horaFim": "09:00"
+                    },
+                    {
+                        "horaInicio": "09:00",
+                        "horaFim": "10:00"
+                    },
+                    {
+                        "horaInicio": "11:00",
+                        "horaFim": "12:00"
+                    },
+                    {
+                        "horaInicio": "12:00",
+                        "horaFim": "13:00"
+                    }
+                    ]
+                },
+                {
+                    "data": "2019-09-03",
+                    "horarios": [
+                    {
+                        "horaInicio": "08:00",
+                        "horaFim": "09:00"
+                    },
+                    {
+                        "horaInicio": "09:00",
+                        "horaFim": "10:00"
+                    },
+                    {
+                        "horaInicio": "11:00",
+                        "horaFim": "12:00"
+                    },
+                    {
+                        "horaInicio": "12:00",
+                        "horaFim": "13:00"
+                    },
+                    {
+                        "horaInicio": "13:00",
+                        "horaFim": "14:00"
+                    },
+                    {
+                        "horaInicio": "14:00",
+                        "horaFim": "15:00"
+                    },
+                    {
+                        "horaInicio": "15:00",
+                        "horaFim": "16:00"
+                    },
+                    {
+                        "horaInicio": "16:00",
+                        "horaFim": "17:00"
+                    }
+                    ]
+                },
+                {
+                    "data": "2019-11-11",
+                    "horarios": [
+                    {
+                        "horaInicio": "08:00",
+                        "horaFim": "09:00"
+                    },
+                    {
+                        "horaInicio": "09:00",
+                        "horaFim": "10:00"
+                    },
+                    {
+                        "horaInicio": "11:00",
+                        "horaFim": "12:00"
+                    },
+                    {
+                        "horaInicio": "12:00",
+                        "horaFim": "13:00"
+                    },
+                    {
+                        "horaInicio": "13:00",
+                        "horaFim": "14:00"
+                    },
+                    {
+                        "horaInicio": "14:00",
+                        "horaFim": "15:00"
+                    },
+                    {
+                        "horaInicio": "15:00",
+                        "horaFim": "16:00"
+                    },
+                    {
+                        "horaInicio": "16:00",
+                        "horaFim": "17:00"
+                    }
+                    ]
                 }
             ]
         }
